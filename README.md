@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kundurthivenkatakishore
-- 👀 I’m interested in web devolopment
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning javascript and react.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
